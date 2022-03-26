@@ -17,3 +17,4 @@ Izm 13 indS3
 Izm 14 indMain
 Izm 15 indMain2
 Izm 16 indS4
+Izm 17 indS4
