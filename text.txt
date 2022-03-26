@@ -16,3 +16,12 @@ Izm 12 indS6
 Izm 13 indS3
 Izm 14 indMain
 Izm 15 indMain2
+Izm 16 indS4
+Izm 17 indS4
+Izm 18 indS5
+Izm 19 indS5
+Izm 20 indS4
+Izm 21 indS7
+Izm 22 indS7
+Izm 23 indS4
+vse!
