@@ -10,3 +10,7 @@ Izm 6 indS2
 Izm 7 indS2
 Izm 8 indS2
 Izm 9 indS3
+Izm 10 indS2
+Izm 11 indS6
+Izm 12 indS6
+Izm 13 indS3s
