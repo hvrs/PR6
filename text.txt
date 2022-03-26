@@ -5,6 +5,7 @@ Plahotnyy Georgyy Andreevich
 Изменение 2
 Izm 3 in da Session1
 Izm 4 indS1
+<<<<<<< HEAD
 Izm 5 indS1
 Izm 6 indS2
 Izm 7 indS2
@@ -20,3 +21,6 @@ Izm 16 indS4
 Izm 17 indS4
 Izm 18 indS5
 Izm 19 indS5
+=======
+Izm 5 indS1
+>>>>>>> Session_1
