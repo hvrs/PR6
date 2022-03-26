@@ -21,3 +21,4 @@ Izm 17 indS4
 Izm 18 indS5
 Izm 19 indS5
 Izm 20 indS4
+Izm 21 indS7
