@@ -9,3 +9,5 @@ Izm 5 indS1
 Izm 6 indS2
 Izm 7 indS2
 Izm 8 indS2
+Izm 9 indS3
+Izm 10 indS2
